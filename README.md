@@ -1,7 +1,9 @@
 react-starter
 ---
  
-Change from branch 1! 
+Boilerplate project for React apps.
+ 
+ 
  
 Setup
 ---
