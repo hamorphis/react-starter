@@ -1,7 +1,8 @@
 react-starter
 ---
  
-Boilerplate project for React apps. 
+Boilerplate project for React apps.
+
 http://andrewhfarmer.com/build-your-own-starter/#0-intro
 
 
